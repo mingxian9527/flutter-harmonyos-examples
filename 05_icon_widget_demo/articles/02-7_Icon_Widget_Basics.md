@@ -469,16 +469,4 @@ Icon Widget 是 Flutter 中显示图标的基础组件：
 
 记住，**好的图标设计应该简洁、直观、符合用户习惯**。优先使用 Material Icons，只有在不能满足需求时才考虑自定义图标。
 
----
-
-## 参考资源
-
-- [Material Icons 官方网站](https://fonts.google.com/icons)
-- [Flutter 官方文档 - Icon Widget](https://api.flutter.dev/flutter/widgets/Icon-class.html)
-- [Material Design 图标指南](https://material.io/design/iconography/system-icons.html)
-
----
-
-## 欢迎加入开源鸿蒙跨平台社区
-
-https://openharmonycrossplatform.csdn.net
+欢迎加入开源鸿蒙跨平台社区：[https://openharmonycrossplatform.csdn.net](https://openharmonycrossplatform.csdn.net)

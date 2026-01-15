@@ -636,16 +636,4 @@ Icon Widget 的样式定制：
 
 记住，**好的样式设计应该简洁、一致、符合用户习惯**。遵循 Material Design 规范，使用主题和语义化颜色，可以让你的应用看起来更专业。
 
----
-
-## 参考资源
-
-- [Material Design 颜色指南](https://material.io/design/color/)
-- [Flutter 官方文档 - Icon Widget](https://api.flutter.dev/flutter/widgets/Icon-class.html)
-- [Flutter 官方文档 - IconTheme](https://api.flutter.dev/flutter/material/IconTheme-class.html)
-
----
-
-## 欢迎加入开源鸿蒙跨平台社区
-
-https://openharmonycrossplatform.csdn.net
+欢迎加入开源鸿蒙跨平台社区：[https://openharmonycrossplatform.csdn.net](https://openharmonycrossplatform.csdn.net)

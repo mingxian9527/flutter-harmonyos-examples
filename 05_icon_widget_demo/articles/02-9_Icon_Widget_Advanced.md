@@ -755,16 +755,4 @@ Icon Widget 的高级用法：
 
 记住，**选择合适的图标方案要根据具体场景**。Material Icons 满足大部分需求，特殊场景再考虑自定义图标。
 
----
-
-## 参考资源
-
-- [IcoMoon - 图标字体生成工具](https://icomoon.io/)
-- [Flutter 官方文档 - ImageIcon](https://api.flutter.dev/flutter/widgets/ImageIcon-class.html)
-- [Flutter 官方文档 - AnimatedIcon](https://api.flutter.dev/flutter/material/AnimatedIcon-class.html)
-
----
-
-## 欢迎加入开源鸿蒙跨平台社区
-
-https://openharmonycrossplatform.csdn.net
+欢迎加入开源鸿蒙跨平台社区：[https://openharmonycrossplatform.csdn.net](https://openharmonycrossplatform.csdn.net)
